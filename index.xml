@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AMOGH HT on My PortFolio</title>
+    <link>https://github.com/amoghht/port/</link>
+    <description>Recent content in AMOGH HT on My PortFolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jul 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://github.com/amoghht/port/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FaceRecognition based Ad display</title>
+      <link>https://github.com/amoghht/port/post/chapter-2/</link>
+      <pubDate>Sat, 10 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/amoghht/port/post/chapter-2/</guid>
+      <description>Project details hear !!!!1</description>
+    </item>
+    
+    <item>
+      <title>Automatic number plate recognition</title>
+      <link>https://github.com/amoghht/port/post/chapter-1/</link>
+      <pubDate>Fri, 09 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/amoghht/port/post/chapter-1/</guid>
+      <description>ANPR project detail will be written hear !!!!!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://github.com/amoghht/port/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/amoghht/port/contact/</guid>
+      <description>You can contact me through various option for freelancing,collaboration and exploration.
+    PLATFORMS URL     linkedin: https://www.linkedin.com/in/amogh-ht-35735a153   github: https://github.com/amoghht   Email: amogh.ht@gmail.com amogh.ht@sandlogic.com   youtube: coming soon !   phone number : 7019827317    </description>
+    </item>
+    
+  </channel>
+</rss>
